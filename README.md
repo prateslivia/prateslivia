@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateslivia&&theme=tokyonight" alt="Livia Gabriele Prates" /></p>
 
-![Snake animation](https://github.com/prateslivia/RafaelAltieris/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/prateslivia/prateslivia/blob/output/github-contribution-grid-snake-dark.svg)
